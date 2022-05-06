@@ -1,9 +1,6 @@
 # Rails6-Ecommerce!
 
 Rails-Ecommerce is an open-source e-commerce solution based on Ruby on Rails 6.
-
-![Screenshot](https://raw.githubusercontent.com/swmd/rails6-ecommerce/master/public/Screenshot.png)
-
 ## Tech Stack
 
 - Ruby 2.6.0  
@@ -30,8 +27,7 @@ Before you get started, the following needs to be installed:
 1. Get the code. Clone this git repository:
 
   ```bash
-  git clone git://github.com/swmd/rails6-ecommerce
-  cd rails6-ecommerce
+  git clone https://github.com/avijit-sharma/shop-rails.git
   ```
 
 1. Install the required gems by running the following command in the project root directory:
@@ -51,16 +47,3 @@ Before you get started, the following needs to be installed:
   ```bash
   rails s
   ```
-
-## If you want to contribute
-
-The best way to contribute is to do one of the following :
-* Creating tests
-* Refactoring
-* Coding features
-* Correcting logged issues
-* Correcting my English! (I'm an Indonesian, so don't hesitate to fix my sentences or whole paragraphs.)
-
-## License
-
-Rails-Ecommerce is open source under the MIT license. See [LICENSE](LICENSE) for details.
