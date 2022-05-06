@@ -19,8 +19,8 @@ module Admin
     # end
 
     http_basic_authenticate_with(
-      name: "omz",
-      password: "mysecret"
+      name: "avijit",
+      password: "senrysa"
     )
   end
 end
